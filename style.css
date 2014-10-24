@@ -1,0 +1,120 @@
+body{
+	font-family: "Courier New";
+	color: #333333;
+}
+img.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 99%;
+}
+ul{
+	list-style-type: none;
+	text-indent: -15px;
+}
+ul ul{
+	text-indent: -30px;
+}
+ul ul ul{
+	text-indent: -60px;
+}
+hr.up{
+	position: relative;
+	top: -18px;
+}
+.tab{
+	white-space: pre;
+}
+.bold{
+	font-weight: 600;
+}
+#header{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	margin-right: 140px;
+}
+.logo{
+	display: block;
+	float: left;
+	width: 250px;
+	height: 70px;
+	background-image: url(img/logo.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.olympic{
+	display: block;
+	width: 200px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	background-image: url(img/logo_01.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+#contactLabel{
+	display: block;
+	float: right;
+	font-size: 70%;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+#contactInfo{
+	display: block;
+	float: right;
+	font-size: 70%;
+	padding-top: 10px;
+	text-align: right;
+}
+#nav{
+	clear: both;
+	margin-top: 30px;
+	margin-bottom: 39px;
+	margin-left: 140px;
+	margin-right: 140px;
+	padding-top: 20px;
+	border-bottom: 1px solid #ff0000;
+	font-size: 150%;	
+}
+#nav a:link{color: #333333;text-decoration: none;}
+#nav a:visited{color: #333333;text-decoration: none;}
+#nav a:hover{color: #ff0000;}
+#pg1{
+	display: block;
+	float: left;
+	text-align: left;
+}
+#pg2{
+	display: block;
+	text-align: right;
+}
+#content{
+	clear: both;
+	margin-left: 140px;
+	margin-right: 140px;
+	/*margin-right: 84px;*/
+	border-left: 1px solid #ff0000;
+	text-align: justify;
+}
+#footer{
+	height: 200px;
+}
+#thumbnail{
+	display: block;
+	clear: both;
+	background-color:green;
+}
+img.min{
+	display: inline;
+	width: auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+#view{
+	display: block;
+	clear: both;
+	background-color: #cccccc;
+	height: 500px;
+}
