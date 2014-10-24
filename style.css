@@ -1,4 +1,14 @@
-body{
+#line1{
+	background-color: #6fbe44;
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 193px;
+}
+#line2{
+	background-color: #797979;
+	height: 140px;
+}
+/*body{
 	font-family: Verdana;
 	color: #333333;
 	background-image: url(img/sfondo.jpg);
@@ -79,7 +89,7 @@ hr.up{
 	position: absolute;
 	top: 36px;
 }
-/*.olympic{
+.olympic{
 	display: block;
 	width: 200px;
 	height: 150px;
@@ -89,7 +99,7 @@ hr.up{
 	background-image: url(img/logo_01.gif);
 	background-repeat: no-repeat;
 	background-size: contain;
-}*/
+}
 #contactLabel{
 	display: block;
 	float: right;
@@ -109,7 +119,7 @@ hr.up{
 	float: left;
 	background-color: #dddddd;
 	border-bottom: 1px solid #ff0000;
-	/*font-size:;*/
+	font-size:;
 	width: 620px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -166,7 +176,7 @@ hr.up{
 #footer{
 	display: block;
 	clear: both;
-	/*background-color: #cccccc;*/
+	background-color: #cccccc;
 	font-size: 70%;
 	width: 960px;
 	height: 40px;
@@ -174,4 +184,4 @@ hr.up{
 	margin-right: 20px;
 	padding-bottom: 3px;
 	text-align: center;
-}
+}*/
