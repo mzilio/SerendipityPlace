@@ -40,21 +40,21 @@ ul ul{
 	position: relative;
 	top: 1px;
 	/*INIZIO versione mobile*/
-	left: 140px;
+	left: 146px;
 	/*FINE versione mobile*/
 	z-index: 100;
 }
-/*INIZIO ISTRUZIONI PER LOGO OLIMPIADI*/
+/*INIZIO ISTRUZIONI PER LOGO OLIMPIADI
 a.logo_oly{
 	display: block;
 	float: left;
 	background-image: url(img/button_olympic.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	width: 228px;/*252*/
+	width: 228px;
 	height: 232px;
 	position: relative;
-	left: 0px;/*-173*/
+	left: 0px;
 	z-index: 98;
 }
 a.logo_oly:hover{
@@ -70,7 +70,7 @@ a.button_home{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 0px;/*-164*/
+	left: 0px;
 	z-index: 99;
 }
 a.button_home:hover{
@@ -86,7 +86,7 @@ a.button_home:hover{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 0px;/*-164*/
+	left: 0px;
 	z-index: 99;
 }
 a.button_rates{
@@ -99,7 +99,7 @@ a.button_rates{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 8px;/*-156*/
+	left: 8px;
 	z-index: 99;
 }
 a.button_rates:hover{
@@ -115,7 +115,7 @@ a.button_rates:hover{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 8px;/*-156*/
+	left: 8px;
 	z-index: 99;
 }
 a.button_loc{
@@ -128,7 +128,7 @@ a.button_loc{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 16px;/*-148*/
+	left: 16px;
 	z-index: 99;
 }
 a.button_loc:hover{
@@ -144,7 +144,7 @@ a.button_loc:hover{
 	height: 302px;
 	position: relative;
 	top: -66px;
-	left: 16px;/*-148*/
+	left: 16px;
 	z-index: 99;
 }
 .image_home{
@@ -160,8 +160,8 @@ a.button_loc:hover{
 	left: 24px;
 	z-index: 99;
 }
-/*FINE ISTRUZIONI PER LOGO OLIMPIADI*/
-/*a.button_home{
+FINE ISTRUZIONI PER LOGO OLIMPIADI*/
+a.button_home{
 	display: block;
 	float: left;
 	background-image: url(img/button_home.png);
@@ -260,7 +260,7 @@ a.button_loc:hover{
 	top: -66px;
 	left: 160px;
 	z-index: 99;
-}*/
+}
 #page{
 	width: 900px;
 	margin-top: 90px;
